@@ -1,0 +1,11 @@
+PHP Language Features (vscode)
+
+Dracula Theme Official (Dracula Theme)
+
+PHP Namespace Resolver (Mehedi Hassan)
+
+PHP Intelephense (publisher:"Ben Mewburn")
+
+Material Icon Theme (Philipp Kief)
+
+Rainbow Brackets (Mhammed Talhaouy)
