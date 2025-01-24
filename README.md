@@ -14,35 +14,11 @@ Até a presente data, o repositório contém as seguintes pastas:
 
 ### **Exercícios**
 
-Os exercícios estão organizados em pastas numeradas de `ex000` a `ex018`. Cada pasta possui um arquivo `index.php` que representa a solução ou implementação prática do exercício correspondente. 
+Este diretório armazena os exercícios que estão organizados em pastas numeradas de `ex000` a `ex018`. Cada pasta possui um arquivo `index.php` que representa a solução ou implementação prática do exercício correspondente. 
 
-- **Exemplo:**
-  - `ex000`: Contém o primeiro exemplo introdutório.
-  - `ex005`: Contém a solução do quinto exercício.
+### **Projetos**
 
-### **Exercício 17: Site de Exemplo**
-
-Este projeto está localizado na pasta `ex017` e inclui uma estrutura de site dinâmico desenvolvida com HTML, CSS e PHP. Ele é composto por:
-
-- **HTML:**
-  - `index.html`: Página inicial.
-  - `contato.html`: Página de contato.
-  - `sobre.html`: Página "Sobre".
-
-- **CSS:**
-  - `styles.css`: Arquivo de estilo compartilhado.
-
-- **PHP:**
-  - `index.php`: Versão PHP da página inicial.
-  - `contato.php`: Versão PHP da página de contato.
-  - `sobre.php`: Versão PHP da página "Sobre".
-  - **Partes Reutilizáveis:**
-    - `footer.php`: Rodapé reutilizável.
-    - `head.php`: Cabeçalho HTML compartilhado.
-    - `header.php`: Cabeçalho do site.
-
-### **Exercício 18**
-- `ex018`: Contém o último exemplo ou exercício prático, abordando tópicos avançados do curso.
+Este diretório contém os projetos práticos que desenvolvi durante o curso. 
 
 ## Ferramentas
 
