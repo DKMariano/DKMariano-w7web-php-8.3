@@ -1,5 +1,13 @@
-<!-- Exercício 01:
-Imprima na tela o seguinte texto: "Seu nome é: Alexandre Kobs, e ele tem 10 caracteres" -->
+<!-------------------------------------------------------------------------
+ ! 	Data: 21/01															  !
+ ! 	Exercício: 004														  !
+ ! 	Instituição de Ensino: b7web										  !
+ ! 	Disciplina: PHP														  !
+ ! 	Professor: Aloessandro Kobs											  !
+ ! 	Aluno: D. K. Mariano												  !
+ ! 	Descrição: Retirar apenas a palavra "Pera" do array e imprimi-la na   ! !             tela, usaNDO A FUNÇão substr().                            !
+ ------------------------------------------------------------------------->
+
  
 <?php
 	$nome = "Alessandro";
