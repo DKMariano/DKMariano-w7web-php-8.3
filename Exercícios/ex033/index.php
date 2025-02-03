@@ -1,10 +1,3 @@
-<?php 
-/**
-* Redirecionar páginas em php
- */
-?>
-
-
 <!DOCTYPE html>
 <html>
 
