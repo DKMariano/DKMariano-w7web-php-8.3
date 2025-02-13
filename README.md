@@ -14,7 +14,7 @@ Até a presente data, o repositório contém as seguintes pastas:
 
 ### **Exercícios**
 
-Este diretório armazena os exercícios que estão organizados em pastas numeradas de `ex000` a `ex033`. Cada pasta possui um arquivo `index.php` que representa a solução ou implementação prática do exercício correspondente. 
+Este diretório armazena os exercícios que estão organizados em pastas numeradas de `ex000` a `ex035`. Cada pasta possui um arquivo `index.php` que representa a solução ou implementação prática do exercício correspondente. 
 
 ### **Projetos**
 
